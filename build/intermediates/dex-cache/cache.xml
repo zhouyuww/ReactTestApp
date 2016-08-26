@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/universe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_833b911b1bb6d79e9e534dab46c554885a754c1e/classes.dex" />
+    </item>
+    <item
+        jar="/home/universe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_7381885cbb2220d3ae81454ee458113b6e7a4aed/classes.dex" />
+    </item>
+    <item
+        jar="/home/universe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_1769b2970e59820eea7ebe020566c61ff20c571f/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.31.0_22f9d4e473c9ec04410fa0b1622827d7fa89dbce/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="02235507336e306d7abd8cf7caddc292761c51e7">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f09a6c36401da1f09f1361131f1f5a1452156568/classes.dex" />
+    </item>
+    <item
+        jar="/home/universe/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_eb2b3c2529e6ed54f0fffe4aca505838c1d64ff3/classes.dex" />
+    </item>
+    <item
+        jar="/home/universe/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.3_fffb81e29f57a802282c9d13e527c78d0da01856/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="38c6a7df857d2bd297add855cefd2d65cb1f41b8">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eedf79b9bdefb455afefe188c910c4ca92d022fb/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="841543b0cb82ebcb59e60c73c4514afa57888ca0">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_e554c1cc02654c7da94c403fec3be6d276d173a5/classes.dex" />
+    </item>
+    <item
+        jar="/home/universe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_d89ca9efc1aea57c95187530b1f87e5030a2a12e/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_3dad4143635c78c19e1fc7a60bd4d899c22b2023/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_59106e265eaa234556705e12c1dd1e8189fdf0b3/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_b21e8fd6169ead2cf9985cf012a4bf30ecc956ac/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_c5bc90e8382772fcab49379757b651cdebddfb08/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.11.0_a3e8724f30e4ed433897571d772803cff3f4440a/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_b0f4d6bf7f30b80db8f74b3d88ff3e9e5320abb7/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_995443cb8ae71e300ea8698699144cb5fce03c1c/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.11.0_f90f81c05e9e67f0025c7dbb8771de7b7828c5f3/classes.dex" />
+    </item>
+    <item
+        jar="/home/universe/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_13d571941d3c57a7a316ebff64b7b4dc7d9f198b/classes.dex" />
+    </item>
+    <item
+        jar="/home/universe/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_fd23672bb94b8dfcde99ff1d6beb6901335ccae3/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_fa6c398901589937ea4e82f42ad1adc8c4a4940f/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.11.0_4c499df99cddc1fb20dfa76f2d0a5dbc5d811ab2/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.11.0_ff9fcf7687712c7cbe64825e26b4c53f161d68ca/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b67493972aac2c2029bbdcce493712641281341e/classes.dex" />
+    </item>
+    <item
+        jar="/opt/vediboForReact/ReactTestApp/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.11.0_12cd2516f3d4927da2d3987f9a310cbe47b4ce4e/classes.dex" />
+    </item>
+    <item
+        jar="/home/universe/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/opt/vediboForReact/ReactTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0c92802e32ce4f0995cd3f204f4937e7c34090d3/classes.dex" />
+    </item>
+
+</items>
